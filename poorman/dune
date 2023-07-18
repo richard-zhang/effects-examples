@@ -1,0 +1,3 @@
+(executables
+ (names poorman)
+ (libraries unix))
